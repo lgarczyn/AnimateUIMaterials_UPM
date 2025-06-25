@@ -1,11 +1,13 @@
 # 
 
-![alt_text](Images~/image1.png "image_tooltip")
+![Logo](Images~/image1.png "image_tooltip")
 
 
 # Introduction
 
 **Animate UI Materials** allows editing and animating materials for a single UI component.
+
+![Example Video](Images~/video-1-3-0.gif "video_tooltip")
 
 # Installation
 
